@@ -1,0 +1,17 @@
+export const LOG_LOAD = 'LOG_LOAD';
+export const LOG_DONE = 'LOG_DONE';
+export const LOG_FAIL = 'LOG_FAIL';
+export const REG_LOAD = 'REG_LOAD';
+export const REG_DONE = 'REG_DONE';
+export const REG_FAIL = 'REG_FAIL';
+export const USER_LOAD = 'USER_LOAD';
+export const USER_DONE = 'USER_DONE';
+export const USER_FAIL = 'USER_FAIL';
+export const CHAT_INSERT_LOAD = 'CHAT_INSERT_LOAD';
+export const CHAT_INSERT_DONE = 'CHAT_INSERT_DONE';
+export const CHAT_INSERT_FAIL = 'CHAT_INSERT_FAIL';
+export const CHAT_LIST_LOAD = 'CHAT_LIST_LOAD';
+export const CHAT_LIST_DONE = 'CHAT_LIST_DONE';
+export const CHAT_LIST_FAIL = 'CHAT_LIST_FAIL';
+export const USER_AUTH_DONE = 'USER_AUTH_DONE';
+export const USER_AUTH_FAIL = 'USER_AUTH_FAIL';
